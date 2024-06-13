@@ -3,13 +3,13 @@
 <meta name="theme-color" content="#111">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <head>
-  <title>FileServer</title>
+  <title>Memeitizer Cloud</title>
   <link rel="stylesheet" href="src/css/index.css">
   <script type="text/javascript" src="src/script/script.js"></script>
 </head>
 <body id="body">
   <div class="topbar shadowDeep">
-    FileServer
+    Memeitizer Cloud
     <div class="rightPanel">
       <?php
         function folderSize ($dir){
