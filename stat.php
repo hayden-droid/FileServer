@@ -3,7 +3,7 @@
 <meta name="theme-color" content="#111">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <head>
-  <title>FileServer</title>
+  <title>Memeitizer Cloud</title>
   <link rel="stylesheet" href="src/css/stat.css">
   <script type="text/javascript" src="src/script/script.js"></script>
 </head>
@@ -13,7 +13,7 @@
 			<a href="index.php" class="whiteLink"><div id="uploadLaunchButton" class="shadowLight">Back</div></a>
       <div class="leftPart">
         <div class="matterHolder shadow">
-          <font class="title-in">FileServer</font><br><br>
+          <font class="title-in">Memeitizer Cloud</font><br><br>
   			<?php
   				function folderSize ($dir){
   				    $size = 0;
